@@ -1,6 +1,6 @@
 class Mercado
     def initialize (produto, preco)
-        @produto = produtos
+        @produto = produto
         @preco = preco
     end
 
